@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+  background-color: #dbe6ff;
+}
+.main-div{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+input{
+  height: 35px;
+  width: 185px;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: px;
+
+}
+li{
+  margin-top: 7px;
+  cursor: pointer;
+}
+button{
+  border: none;
+  border-radius: 6px;
+  color: white;
+  background-color: rgb(92, 92, 250);
+  padding: 10px 25px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
